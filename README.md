@@ -1,5 +1,5 @@
 # Paper: Multimodal Models for Delisted Status Prediction Using Textual Disclosures
-As the project is still progressing, I upload the opening report of our paper related with enterprise risk management and multimodal model. In the research, my mianly tasks were: 
+As the project is still progressing, I upload the opening report of our paper related with enterprise risk management and multimodal model. In the research, my tasks were: 
 
   Conducted research on predicting the delisted status of companies by integrating financial indicators and textual disclosures of regulatory violations from Shanghai Stock Exchange; led 20+ group discussions and presented at the state level
  
